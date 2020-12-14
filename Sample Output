@@ -1,0 +1,9 @@
+/*
+"C:\Program Files\Java\jdk-11.0.2\bin\java.exe" "-javaagent:C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2020.1\lib\idea_rt.jar=54801:C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2020.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Connor\IdeaProjects\magicalTest\out\production\magicalTest magicalTest
+This square is magic! B)
+6 1 8
+7 5 3
+2 9 4
+
+Process finished with exit code 0
+ */
